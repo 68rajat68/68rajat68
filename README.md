@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajatfullportfolio.rf.gd/](https://rajatfullportfolio.rf.gd/)
 
-- 💬 Ask me about **JAVA, DSA**
+- 💬 Ask me about **Java, DSA**
 
 - 📫 How to reach me **68rajat68@gmail.com**
 
