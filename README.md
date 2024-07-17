@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, DSA**
 
-- 👨‍💻 All of my projects are available at [https://rajatfullportfolio.rf.gd/](https://rajatfullportfolio.rf.gd/)
+- 👨‍💻 All of my projects are available at [https://rajatfullportfolio.rf.gd/](https://68rajat68.github.io/)
 
 - 💬 Ask me about **Java, DSA**
 
