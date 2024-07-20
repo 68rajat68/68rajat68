@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, DSA, React**
 
-- 👨‍💻 All of my projects are available at [68rajat68.github.io](https://68rajat68.github.io/)
+- 👨‍💻 My protfolio is available at [68rajat68.github.io](https://68rajat68.github.io/)
 
 - 💬 Ask me about **Java, DSA**
 
