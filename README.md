@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Jangid</h1>
 <h3 align="center">A passionate developer from India. Welcome to my GitHub profile!!!</h3>
 
-- 🌱 I’m currently learning **Java, DSA, React**
+- 🌱 I’m currently learning **Java, DSA**
 
 - 👨‍💻 My protfolio is available at [68rajat68.github.io](https://68rajat68.github.io/)
 
