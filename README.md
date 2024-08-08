@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajat Jangid</h1>
-<h3 align="center">A passionate developer from India. Welcome to my GitHub profile!!!</h3>
+<h3 align="center">A passionate developer from India. Welcome to my GitHub profile !!!</h3>
 
 
 
-<img align="right" alt="coding" width="400" src="readme_01.jpeg"> 
+<img align="right" alt="coding" width="500" src="readme_01.jpeg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=68rajat68&label=Profile%20views&color=0e75b6&style=flat" alt="68rajat68" /> </p>
 
