@@ -3,7 +3,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="readme_01.jpeg"> 
+<img align="right" alt="coding" width="450" src="readme_01.jpeg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=68rajat68&label=Profile%20views&color=0e75b6&style=flat" alt="68rajat68" /> </p>
 
