@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Java, DSA**
   
--  👨‍💻 My protfolio is available at [Protfolio - Rajatjangid](https://68rajat68.github.io/)
+-  👨‍💻 My portfolio is available at [Portfolio - Rajatjangid](https://68rajat68.github.io/)
 
 - 🌱 I’m currently learning **Java, DSA**
 
