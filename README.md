@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=68rajat68&label=Profile%20views&color=0e75b6&style=flat" alt="68rajat68" /> </p>
 
-- 🔭 I’m currently working on **Organize_Now**
+- 🔭 I’m currently working on **Organize_Now and DSA**
   
 -  👨‍💻 My portfolio is available at [Portfolio - Rajatjangid](https://68rajat68.github.io/)
 
