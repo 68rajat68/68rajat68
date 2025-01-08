@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=68rajat68&label=Profile%20views&color=0e75b6&style=flat" alt="68rajat68" /> </p>
 
-- 🔭 I’m currently working on **Organize_Now and DSA**
+- 🔭 I’m Currently working as an **Intern at Remote State**
   
 -  👨‍💻 My portfolio is available at [Portfolio - Rajatjangid](https://68rajat68.github.io/)
 
-- 🌱 I’m currently learning **Java, DSA**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **68rajat68@gmail.com**
 
